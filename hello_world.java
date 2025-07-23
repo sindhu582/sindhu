@@ -7,7 +7,7 @@ public class hello_world {
 		int a = 30;
 		int mul = a * 3;
 		System.out.println("a multiplied by 3 equals to :"+mul);
-
+		 
 	}
 
 }
